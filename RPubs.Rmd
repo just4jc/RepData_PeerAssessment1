@@ -1,0 +1,6 @@
+---
+title: "Rubs"
+output: html_document
+---
+
+http://rpubs.com/just4jcgeorge/192915
